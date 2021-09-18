@@ -46,7 +46,6 @@ module.exports = {
           owner: "allJokin",
           name: "electron-publish",
         },
-        prerelease: true,
       },
     },
   ],
