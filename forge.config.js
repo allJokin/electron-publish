@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
   makers: [
     {
       name: "@electron-forge/maker-squirrel",
@@ -40,6 +40,7 @@ module.export = {
   publishers: [
     {
       name: "@electron-forge/publisher-github",
+      platforms: ["win32"],
       config: {
         repository: {
           owner: "allJokin",
