@@ -13,8 +13,7 @@
   },
   "keywords": [],
   "author": {
-    "name": "allJokin",
-    "email": ""
+    "name": "allJokin"
   },
   "license": "MIT",
   "devDependencies": {
